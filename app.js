@@ -1,4 +1,4 @@
-//Menu lateral
+// Menu lateral
 var menu_visible = false;
 let menu = document.getElementById("nav");
 function mostrarOcultarMenu(){
